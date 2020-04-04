@@ -8,6 +8,7 @@ CLI plugins
 * [Kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl.
 * [ssh-jump](https://github.com/yokawasa/kubectl-plugin-ssh-jump) - kubectl plugin to SSH into Kubernetes nodes using a SSH jump host Pod
 * [Klum](https://github.com/ibuildthecloud/klum) - Kubernetes Lazy User Manager
+* [Tubekit](https://github.com/reconquest/tubekit) - kubectl alternative with quick context switching, kubectl on steroids
 
 Config
 ------

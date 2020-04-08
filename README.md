@@ -9,6 +9,7 @@ CLI plugins
 * [ssh-jump](https://github.com/yokawasa/kubectl-plugin-ssh-jump) - kubectl plugin to SSH into Kubernetes nodes using a SSH jump host Pod
 * [Klum](https://github.com/ibuildthecloud/klum) - Kubernetes Lazy User Manager
 * [Tubekit](https://github.com/reconquest/tubekit) - kubectl alternative with quick context switching, kubectl on steroids
+* [kubectl-rolesum](https://github.com/Ladicle/kubectl-rolesum/) - Summarize Kubernetes RBAC roles for the specified subjects
 
 Config
 ------

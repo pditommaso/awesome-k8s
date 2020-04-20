@@ -10,6 +10,7 @@ CLI plugins
 * [Klum](https://github.com/ibuildthecloud/klum) - Kubernetes Lazy User Manager
 * [Tubekit](https://github.com/reconquest/tubekit) - kubectl alternative with quick context switching, kubectl on steroids
 * [kubectl-rolesum](https://github.com/Ladicle/kubectl-rolesum/) - Summarize Kubernetes RBAC roles for the specified subjects
+* [kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree
 
 Config
 ------

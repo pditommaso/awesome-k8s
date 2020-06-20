@@ -15,3 +15,7 @@ CLI plugins
 Config
 ------
 [Tanka](https://tanka.dev/) - Composable configuration utility for Kubernetes
+
+Frontend & admin
+-----------------
+[Kubedev](https://github.com/relferreira/kubedev) - A simpler and more powerful Kubernetes Dashboard

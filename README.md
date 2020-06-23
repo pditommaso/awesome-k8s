@@ -18,4 +18,8 @@ Config
 
 Frontend & admin
 -----------------
-[Kubedev](https://github.com/relferreira/kubedev) - A simpler and more powerful Kubernetes Dashboard
+[Kubedev](https://github.com/relferreira/kubedev) - A simpler and more powerful Kubernetes Dashboard.
+
+Other list
+----------
+[Awesome-eks](https://github.com/realvz/awesome-eks) - A curated list of awesome tools for Amazon EKS.

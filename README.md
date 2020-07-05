@@ -18,6 +18,7 @@ Config
 
 Frontend & admin
 -----------------
+[k1s])(https://github.com/weibeld/k1s) - The world's simplest Kubernetes dashboard
 [Kubedev](https://github.com/relferreira/kubedev) - A simpler and more powerful Kubernetes Dashboard.
 
 Other list

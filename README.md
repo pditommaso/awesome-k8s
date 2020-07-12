@@ -14,13 +14,18 @@ CLI plugins
 
 Config
 ------
-[Tanka](https://tanka.dev/) - Composable configuration utility for Kubernetes
+* [Tanka](https://tanka.dev/) - Composable configuration utility for Kubernetes
 
 Frontend & admin
 -----------------
-[k1s])(https://github.com/weibeld/k1s) - The world's simplest Kubernetes dashboard
-[Kubedev](https://github.com/relferreira/kubedev) - A simpler and more powerful Kubernetes Dashboard.
+* [k1s](https://github.com/weibeld/k1s) - The world's simplest Kubernetes dashboard
+* [Kubedev](https://github.com/relferreira/kubedev) - A simpler and more powerful Kubernetes Dashboard.
+
+Mertrics & Scale
+-----------------
+* [pangolin](https://github.com/dpeckett/pangolin) - Enhanced Horizontal Pod Autoscaler for Kubernetes.
 
 Other list
 ----------
-[Awesome-eks](https://github.com/realvz/awesome-eks) - A curated list of awesome tools for Amazon EKS.
+* [Awesome-eks](https://github.com/realvz/awesome-eks) - A curated list of awesome tools for Amazon EKS.
+* [aws-eks-best-practices](https://aws.github.io/aws-eks-best-practices/iam/) - EKS Best Practices Guide for Security

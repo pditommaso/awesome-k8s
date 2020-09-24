@@ -22,6 +22,7 @@ Frontend & admin
 * [Kubedev](https://github.com/relferreira/kubedev) - A simpler and more powerful Kubernetes Dashboard.
 * [Lens](https://github.com/lensapp/lens)
 * [Octant](https://github.com/vmware-tanzu/octant)
+* more [here](https://ordina-jworks.github.io/cloud/2020/08/28/kubernetes-clients-comparison.html)
 
 Mertrics & Scale
 -----------------

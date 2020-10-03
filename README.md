@@ -32,3 +32,7 @@ Other list
 ----------
 * [Awesome-eks](https://github.com/realvz/awesome-eks) - A curated list of awesome tools for Amazon EKS.
 * [aws-eks-best-practices](https://aws.github.io/aws-eks-best-practices/iam/) - EKS Best Practices Guide for Security
+
+Tricks 
+-------
+* [Getting a shell on each node](https://gist.github.com/xandout/8d24558c75c53f3cb8bf0a97ec25fcfc)

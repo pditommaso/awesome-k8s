@@ -28,6 +28,14 @@ Mertrics & Scale
 -----------------
 * [pangolin](https://github.com/dpeckett/pangolin) - Enhanced Horizontal Pod Autoscaler for Kubernetes.
 
+Secrets management
+-------------------
+* [aws-secret-operator](https://github.com/mumoshu/aws-secret-operator) - Creates and updates Kubernetes secrets according to what are stored in AWS Secrets Manager
+* [kube-secret-syncer](https://github.com/contentful-labs/kube-secret-syncer) - Operator to sync secrets from AWS Secrets Manager
+* [kubernetes-external-secrets](https://github.com/godaddy/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
+* [setec](https://github.com/anthonysterling/setec) - Tool that encrypts and decrypts secrets that are managed by Bitnami's Sealed Secrets
+* [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - Kubernetes controller and tool for one-way encrypted Secrets
+
 Other list
 ----------
 * [Awesome-eks](https://github.com/realvz/awesome-eks) - A curated list of awesome tools for Amazon EKS.

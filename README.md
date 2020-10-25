@@ -11,6 +11,7 @@ CLI plugins
 * [Tubekit](https://github.com/reconquest/tubekit) - kubectl alternative with quick context switching, kubectl on steroids
 * [kubectl-rolesum](https://github.com/Ladicle/kubectl-rolesum/) - Summarize Kubernetes RBAC roles for the specified subjects
 * [kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree
+* [ktunnel](https://github.com/omrikiei/ktunnel) - Exposes your local resources to kubernetes ~ [blog](https://mbuffett.com/posts/ktunnel-ngrok-replace/)
 
 Config
 ------
@@ -35,6 +36,7 @@ Secrets management
 * [kubernetes-external-secrets](https://github.com/godaddy/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
 * [setec](https://github.com/anthonysterling/setec) - Tool that encrypts and decrypts secrets that are managed by Bitnami's Sealed Secrets
 * [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - Kubernetes controller and tool for one-way encrypted Secrets
+
 
 Other list
 ----------

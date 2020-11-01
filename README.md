@@ -45,4 +45,4 @@ Other list
 
 Tricks 
 -------
-* [Getting a shell on each node](https://gist.github.com/xandout/8d24558c75c53f3cb8bf0a97ec25fcfc)
+* [Getting a SSH shell on each node](https://gist.github.com/xandout/8d24558c75c53f3cb8bf0a97ec25fcfc)

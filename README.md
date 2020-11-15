@@ -18,6 +18,10 @@ Config
 ------
 * [Tanka](https://tanka.dev/) - Composable configuration utility for Kubernetes
 
+Distributions
+-------------
+[k0s](https://github.com/k0sproject/k0s) - Zero Friction Kubernetes - [docs](https://github.com/k0sproject/k0s/blob/main/docs/create-cluster.md) 
+
 Frontend & admin
 -----------------
 * [k1s](https://github.com/weibeld/k1s) - The world's simplest Kubernetes dashboard

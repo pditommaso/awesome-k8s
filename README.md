@@ -4,6 +4,7 @@ A curated list of awesome Kubernetes tools & resources inspired by other Awesome
 
 CLI plugins
 ------------
+* [buildkit-cli-for-kubectl](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl#buildkit-cli-for-kubectl) - building container images with your Kubernetes cluster - [blog](https://blogs.vmware.com/opensource/2020/11/17/buildkit-cli-for-kubectl/)
 * [kdo](https://github.com/stepro/kdo) - Deployless Development on Kubernetes
 * [Kube-capacity](https://github.com/robscott/kube-capacity/) - Simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
 * [Kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl.

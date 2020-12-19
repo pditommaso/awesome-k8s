@@ -17,6 +17,7 @@ CLI plugins
 
 Config
 ------
+* [Kr8](https://github.com/apptio/kr8) - Opinionated Kubernetes cluster configuration management tool based on Jsonnet
 * [Tanka](https://tanka.dev/) - Composable configuration utility for Kubernetes
 
 Distributions

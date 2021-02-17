@@ -33,9 +33,13 @@ Frontend & admin
 * [Octant](https://github.com/vmware-tanzu/octant)
 * more [here](https://ordina-jworks.github.io/cloud/2020/08/28/kubernetes-clients-comparison.html)
 
-Mertrics & Scale
+Metrics & Scale
 -----------------
 * [pangolin](https://github.com/dpeckett/pangolin) - Enhanced Horizontal Pod Autoscaler for Kubernetes.
+
+Registry & container mngm 
+--------------------------
+* [https://github.com/shipwright-io/build](https://github.com/shipwright-io/build) - framework for building container images on Kubernetes
 
 Secrets management
 -------------------

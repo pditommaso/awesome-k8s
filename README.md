@@ -55,6 +55,7 @@ Other list
 * [Awesome-eks](https://github.com/realvz/awesome-eks) - A curated list of awesome tools for Amazon EKS.
 * [aws-eks-best-practices](https://aws.github.io/aws-eks-best-practices/iam/) - EKS Best Practices Guide for Security
 * [Curated List of Kubernetes Tools](https://kubezilla.com/tools/)
+* [kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
 
 Tricks 
 -------

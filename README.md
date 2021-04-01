@@ -36,6 +36,7 @@ Frontend & admin
 Metrics & Scale
 -----------------
 * [pangolin](https://github.com/dpeckett/pangolin) - Enhanced Horizontal Pod Autoscaler for Kubernetes.
+* [kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering.
 
 Registry & container mngm 
 --------------------------

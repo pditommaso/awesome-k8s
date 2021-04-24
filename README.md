@@ -34,6 +34,10 @@ Frontend & admin
 * [Pixie](https://github.com/pixie-labs/pixie)
 * more [here](https://ordina-jworks.github.io/cloud/2020/08/28/kubernetes-clients-comparison.html)
 
+Logging 
+-------
+* [https://github.com/OT-CONTAINER-KIT/logging-operator](logging-operator)
+
 Metrics & Scale
 -----------------
 * [pangolin](https://github.com/dpeckett/pangolin) - Enhanced Horizontal Pod Autoscaler for Kubernetes.

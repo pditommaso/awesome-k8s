@@ -67,3 +67,4 @@ Other list
 Tricks 
 -------
 * [Getting a SSH shell on each node](https://gist.github.com/xandout/8d24558c75c53f3cb8bf0a97ec25fcfc)
+* [Gradual-code-releases-using-an-in-house-kubernetes-canary-controller](https://doordash.engineering/2021/04/14/gradual-code-releases-using-an-in-house-kubernetes-canary-controller/)

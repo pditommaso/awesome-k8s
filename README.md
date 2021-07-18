@@ -64,7 +64,8 @@ Other list
 * [Curated List of Kubernetes Tools](https://kubezilla.com/tools/)
 * [kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
 
-Tricks 
--------
+Tricks & Blogs
+---------------
 * [Getting a SSH shell on each node](https://gist.github.com/xandout/8d24558c75c53f3cb8bf0a97ec25fcfc)
 * [Gradual-code-releases-using-an-in-house-kubernetes-canary-controller](https://doordash.engineering/2021/04/14/gradual-code-releases-using-an-in-house-kubernetes-canary-controller/)
+* [Kubernetes-essential-tools-2021](https://itnext.io/kubernetes-essential-tools-2021-def12e84c572)

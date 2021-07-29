@@ -41,6 +41,7 @@ Logging
 Metrics & Scale
 -----------------
 * [pangolin](https://github.com/dpeckett/pangolin) - Enhanced Horizontal Pod Autoscaler for Kubernetes.
+* [Karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling https://twitter.com/nathankpeck/status/1420463945865998344
 * [kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering.
 
 Registry & container mngm 

@@ -71,3 +71,4 @@ Tricks & Blogs
 * [Gradual-code-releases-using-an-in-house-kubernetes-canary-controller](https://doordash.engineering/2021/04/14/gradual-code-releases-using-an-in-house-kubernetes-canary-controller/)
 * [Kubernetes-essential-tools-2021](https://itnext.io/kubernetes-essential-tools-2021-def12e84c572)
 * [visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
+* [Running Apache Spark on Kubernetes](https://medium.com/empathyco/running-apache-spark-on-kubernetes-2e64c73d0bb2)

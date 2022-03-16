@@ -37,6 +37,7 @@ Frontend & admin
 Logging 
 -------
 * [https://github.com/OT-CONTAINER-KIT/logging-operator](logging-operator)
+* [https://github.com/up9inc/mizu](mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices
 
 Metrics & Scale
 -----------------

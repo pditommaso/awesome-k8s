@@ -45,6 +45,10 @@ Metrics & Scale
 * [Karpenter](https://github.com/awslabs/karpenter) - Kubernetes Node Autoscaling https://twitter.com/nathankpeck/status/1420463945865998344
 * [kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering.
 
+Operators
+---------
+* [wireguard-operator](https://github.com/jodevsa/wireguard-operator) - Wireguard operator created to easily provision a VPN in a k8s cluster
+
 Registry & container mngm 
 --------------------------
 * [https://github.com/shipwright-io/build](https://github.com/shipwright-io/build) - framework for building container images on Kubernetes

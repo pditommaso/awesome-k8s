@@ -14,6 +14,7 @@ CLI plugins
 * [kubectl-rolesum](https://github.com/Ladicle/kubectl-rolesum/) - Summarize Kubernetes RBAC roles for the specified subjects
 * [kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree
 * [ktunnel](https://github.com/omrikiei/ktunnel) - Exposes your local resources to kubernetes ~ [blog](https://mbuffett.com/posts/ktunnel-ngrok-replace/)
+* [kubescout](https://github.com/ReallyLiri/kubescout) - Scout for alarming issues across your Kubernetes clusters
 
 Config
 ------

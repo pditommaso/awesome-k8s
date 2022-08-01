@@ -61,7 +61,7 @@ Secrets management
 * [kubernetes-external-secrets](https://github.com/godaddy/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes
 * [setec](https://github.com/anthonysterling/setec) - Tool that encrypts and decrypts secrets that are managed by Bitnami's Sealed Secrets
 * [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - Kubernetes controller and tool for one-way encrypted Secrets
-
+* [secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver)
 
 Other list
 ----------

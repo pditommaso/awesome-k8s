@@ -80,3 +80,4 @@ Tricks & Blogs
 * [Kubernetes-essential-tools-2021](https://itnext.io/kubernetes-essential-tools-2021-def12e84c572)
 * [visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
 * [Running Apache Spark on Kubernetes](https://medium.com/empathyco/running-apache-spark-on-kubernetes-2e64c73d0bb2)
+* [vk8s](https://github.com/go-tk/vk8s) - Setting up a virtual Kubernetes cluster inside a Docker container for integration testing

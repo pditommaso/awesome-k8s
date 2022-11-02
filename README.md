@@ -26,6 +26,11 @@ Distributions
 * [k0s](https://github.com/k0sproject/k0s) - Zero Friction Kubernetes - [docs](https://github.com/k0sproject/k0s/blob/main/docs/create-cluster.md) 
 * [k3s](https://github.com/k3s-io/k3s/) - Lightweight Kubernetes
 
+Functions 
+---------
+* [Fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes 
+* [Knative](https://knative.dev/docs/)
+
 Frontend & admin
 -----------------
 * [havener](https://github.com/homeport/havener) - Swiss army knife for Kubernetes tasks
@@ -76,6 +81,7 @@ Other list
 
 Tricks & Blogs
 ---------------
+* [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - Launch containers on demand
 * [Getting a SSH shell on each node](https://gist.github.com/xandout/8d24558c75c53f3cb8bf0a97ec25fcfc)
 * [Gradual-code-releases-using-an-in-house-kubernetes-canary-controller](https://doordash.engineering/2021/04/14/gradual-code-releases-using-an-in-house-kubernetes-canary-controller/)
 * [Kubernetes-essential-tools-2021](https://itnext.io/kubernetes-essential-tools-2021-def12e84c572)

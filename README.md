@@ -25,6 +25,7 @@ Distributions
 -------------
 * [k0s](https://github.com/k0sproject/k0s) - Zero Friction Kubernetes - [docs](https://github.com/k0sproject/k0s/blob/main/docs/create-cluster.md) 
 * [k3s](https://github.com/k3s-io/k3s/) - Lightweight Kubernetes
+* [Kubefire](https://github.com/innobead/kubefire) - Kubefire
 
 Functions 
 ---------

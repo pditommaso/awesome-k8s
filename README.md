@@ -4,7 +4,8 @@ A curated list of awesome Kubernetes tools & resources inspired by other Awesome
 
 CLI plugins
 ------------
-* [buildkit-cli-for-kubectl](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl#buildkit-cli-for-kubectl) - building container images with your Kubernetes cluster - [blog](https://blogs.vmware.com/opensource/2020/11/17/buildkit-cli-for-kubectl/)
+* [buildkit-cli-for-kubectl](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl#buildkit-cli-for-kubectl) - building container images with your Kubernetes cluster * [blog](https://blogs.vmware.com/opensource/2020/11/17/buildkit-cli-for-kubectl/)
+* [kail](https://github.com/boz/kail) - kubernetes log viewer
 * [kdo](https://github.com/stepro/kdo) - Deployless Development on Kubernetes
 * [Kube-capacity](https://github.com/robscott/kube-capacity/) - Simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
 * [Kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl.
@@ -15,6 +16,7 @@ CLI plugins
 * [kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree
 * [ktunnel](https://github.com/omrikiei/ktunnel) - Exposes your local resources to kubernetes ~ [blog](https://mbuffett.com/posts/ktunnel-ngrok-replace/)
 * [kubescout](https://github.com/ReallyLiri/kubescout) - Scout for alarming issues across your Kubernetes clusters
+* [stern](https://github.com/stern/stern) - Multi pod and container log tailing for Kubernetes
 
 Config
 ------

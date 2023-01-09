@@ -64,6 +64,10 @@ Registry & container mngm
 --------------------------
 * [https://github.com/shipwright-io/build](https://github.com/shipwright-io/build) - framework for building container images on Kubernetes
 
+Storage
+--------
+* [k8s-csi-s3](https://github.com/yandex-cloud/k8s-csi-s3) - Container Storage Interface (CSI) for S3 (or S3 compatible) storage.
+
 Secrets management
 -------------------
 * [aws-secret-operator](https://github.com/mumoshu/aws-secret-operator) - Creates and updates Kubernetes secrets according to what are stored in AWS Secrets Manager

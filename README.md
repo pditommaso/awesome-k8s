@@ -67,6 +67,7 @@ Registry & container mngm
 Storage
 --------
 * [k8s-csi-s3](https://github.com/yandex-cloud/k8s-csi-s3) - Container Storage Interface (CSI) for S3 (or S3 compatible) storage.
+* [fuse-device-plugin](https://github.com/kuberenetes-learning-group/fuse-device-plugin) - kubernetes device plugin for using /dev/fuse without privilege
 
 Secrets management
 -------------------

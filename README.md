@@ -17,6 +17,7 @@ CLI plugins
 * [ktunnel](https://github.com/omrikiei/ktunnel) - Exposes your local resources to kubernetes ~ [blog](https://mbuffett.com/posts/ktunnel-ngrok-replace/)
 * [kubescout](https://github.com/ReallyLiri/kubescout) - Scout for alarming issues across your Kubernetes clusters
 * [stern](https://github.com/stern/stern) - Multi pod and container log tailing for Kubernetes
+* [kybectl-debug](https://github.com/JamesTGrant/kubectl-debug) - Debug a target container in a Kubernetes cluster by automatically creating a new, non-invasive, 'debug' container
 
 Config
 ------

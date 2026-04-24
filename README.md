@@ -39,6 +39,7 @@ Frontend & admin
 -----------------
 * [havener](https://github.com/homeport/havener) - Swiss army knife for Kubernetes tasks
 * [k1s](https://github.com/weibeld/k1s) - The world's simplest Kubernetes dashboard
+* [KubeStellar Console](https://console.kubestellar.io) - Open source AI-powered multi-cluster Kubernetes dashboard with real-time observability and 20+ CNCF integrations. CNCF Sandbox project.
 * [Kubedev](https://github.com/relferreira/kubedev) - A simpler and more powerful Kubernetes Dashboard.
 * [Lens](https://github.com/lensapp/lens)
 * [Octant](https://github.com/vmware-tanzu/octant)

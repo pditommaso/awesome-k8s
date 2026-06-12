@@ -80,6 +80,14 @@ Secrets management
 * [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - Kubernetes controller and tool for one-way encrypted Secrets
 * [secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver)
 
+Local orchestration 
+--------------------
+* [https://github.com/kubernetes/minikube] - Run Kubernetes locally
+* [https://github.com/k3d-io/k3d] - Little helper to run CNCF's k3s in Docker
+* [https://github.com/k0sproject/k0s] - The Zero Friction Kubernetes
+* [https://github.com/saiyam1814/kiac] - Local Kubernetes on Apple's container framework
+* [https://github.com/kubernetes-sigs/kind] - Kubernetes IN Docker
+
 Other list
 ----------
 * [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)

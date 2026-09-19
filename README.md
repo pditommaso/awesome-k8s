@@ -24,6 +24,7 @@ Config
 ------
 * [Kr8](https://github.com/apptio/kr8) - Opinionated Kubernetes cluster configuration management tool based on Jsonnet
 * [Tanka](https://tanka.dev/) - Composable configuration utility for Kubernetes
+* [Kos](https://github.com/yonahd/kor) - Golang Tool to discover unused Kubernetes Resources
 
 Distributions
 -------------

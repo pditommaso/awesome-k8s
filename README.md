@@ -46,6 +46,7 @@ Frontend & admin
 * [Kubedev](https://github.com/relferreira/kubedev) - A simpler and more powerful Kubernetes Dashboard.
 * [Lens](https://github.com/lensapp/lens)
 * [Krust](https://krust.io/) - Native macOS Kubernetes dashboard for resources, logs, YAML, Helm, topology, and AI diagnostics.
+* [KubeSpade](https://github.com/kubespade/kubespade) - Free open-source Kubernetes desktop client for Mac, Windows, and Linux with resources, logs, exec, YAML, Helm, and optional MCP AI.
 * [Octant](https://github.com/vmware-tanzu/octant)
 * [Pixie](https://github.com/pixie-labs/pixie)
 * [Radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI: topology, event timeline, and service traffic, plus resource browsing and Helm management.
